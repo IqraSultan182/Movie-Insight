@@ -1,4 +1,4 @@
-Movie Insight – Worth-Watching Prediction System
+Movie Insight 
 
 Movie Insight is an end-to-end machine learning project that predicts whether a movie is worth watching based on its storyline. The system uses Natural Language Processing techniques with TF-IDF vectorization and a Logistic Regression classifier trained on movie overview data.
 
